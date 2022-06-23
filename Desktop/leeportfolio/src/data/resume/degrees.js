@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
+    school: 'Korea University',
+    degree: 'M.S. Econometrics',
+    link: 'http://econ.korea.ac.kr/econ/?page_id=57180&lang=en',
     year: 2016,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
+    school: 'Korea University',
+    degree: 'B.S. Economics',
+    link: 'http://econ.korea.ac.kr/econ/?page_id=57180&lang=en',
     year: 2012,
   },
 ];

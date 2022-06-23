@@ -1,28 +1,16 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Kippeum Lee',
     path: '/',
   },
   {
-    label: 'About',
-    path: '/about',
-  },
-  {
-    label: 'Resume',
+    label: 'CV',
     path: '/resume',
   },
   {
-    label: 'Projects',
-    path: '/projects',
-  },
-  {
-    label: 'Stats',
-    path: '/stats',
-  },
-  {
-    label: 'Contact',
-    path: '/contact',
+    label: 'Research',
+    path: '/about',
   },
 ];
 
